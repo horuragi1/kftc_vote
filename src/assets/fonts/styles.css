@@ -1,0 +1,12 @@
+/* src/assets/fonts/styles.css */
+@font-face {
+    font-family: 'MyFont';
+    src: url('./MaruBuri-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'MyFont', sans-serif; /* 'MyFont'를 기본 폰트로 설정 */
+  }
+  
