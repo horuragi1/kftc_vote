@@ -4,7 +4,7 @@ import { Box, TextField, Button, Card, CardContent, Typography } from "@mui/mate
 import Login_logo from "../assets/login_logo.png";
 
 const LoginAPI = (form) => {
-  if(form.username==="hjh0537" && form.password==="01044552594p"){
+  if(form.username==="kftc" && form.password==="kftc123!@"){
     return 1;
   }
 
